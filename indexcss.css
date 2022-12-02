@@ -3,9 +3,11 @@ h1{
     font-family : Arial;
 	color :  #cc0e0e;
 	font-variant : small-caps;
+    font-size: 60px;
 }
 
 h2{
+    font-size: 30px;
 	font-family : Arial;
 	color :  #0ecc57;
 	font-variant : small-caps;
